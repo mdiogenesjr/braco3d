@@ -1,0 +1,14 @@
+Braço Mecânico 3d
+
+Teclas
+
+Camera Zoom
+Z e X
+
+Camera Pan
+left,right,up,down,home e and
+
+Os valores minimos e maximos dos angulos são passados por linha de comando antes de começar a animação.
+OBS: Por algum motivo, os valores passados por linha de comando só foram solicitados no Visual Studio, sendo assim
+setei valores default desses angulos caso esse problema ocorresse em algum outro compilador.
+
